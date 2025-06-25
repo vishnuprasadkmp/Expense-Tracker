@@ -1,6 +1,6 @@
 
 
-## Celebrating 300+ Active Users on Expense Tracker 🥳🎉🍾
+
 
 # ExpenseTracker
 - Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
